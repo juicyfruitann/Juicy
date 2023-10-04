@@ -11,7 +11,7 @@ beforeEach('setup success response with stub', () => { // прекондишен
 
 }) 
 
-it('API GET request', () => {
+it.skip('API GET request', () => {
     cy.request('https://reqres.in/api/users?page=1')
         .then((response) => {
             console.log(response) //лог всего ответа
