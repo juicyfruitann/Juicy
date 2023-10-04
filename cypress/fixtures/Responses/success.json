@@ -1,0 +1,32 @@
+{
+    "response": "1",
+    "countries": {
+        "_7": {
+            "name": "Russia",
+            "original": "russia",
+            "code": 7,
+            "pos": 0,
+            "other": false,
+            "new": false,
+            "enable": true
+        },
+        "_380": {
+            "name": "Ukraine",
+            "original": "ukraine",
+            "code": 380,
+            "pos": 1,
+            "other": false,
+            "new": false,
+            "enable": true
+        },
+        "_49": {
+            "name": "Germany",
+            "original": "germany",
+            "code": 49,
+            "pos": 2,
+            "other": 1.24,
+            "new": false,
+            "enable": true
+        }
+    }
+}
