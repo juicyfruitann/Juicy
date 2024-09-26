@@ -19,7 +19,7 @@ it('Searching by Tag value', () => {
     cy.get('svg[xmlns="http://www.w3.org/2000/svg"][fill="none"]')
 })
 
-it.only('Searching by contains name', () => {
+it('Searching by contains name', () => {
     cy.visit('https://vk.com/')
     cy.get('*[class^="Flat"]')
 })
